@@ -1921,9 +1921,6 @@ msgstr "Circolare a sinistra"
 msgid "Circular right"
 msgstr "Circolare a destra"
 
-msgid "Clean network trash cans"
-msgstr "Cancellare prima di cercare"
-
 msgid "Cleaning Trashes"
 msgstr "Pulizia spesso"
 
